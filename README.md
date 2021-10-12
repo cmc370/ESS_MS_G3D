@@ -1,4 +1,4 @@
-# ESS_MS_G3D
+# ESS MS-G3D
 Skeleton-Based Assessment of Severe Mental Retardation. Our code is based on [MS-G3D](https://github.com/kenziyuliu/MS-G3D.git).
 
 # Dependencies
