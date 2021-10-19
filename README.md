@@ -34,38 +34,41 @@ We used [AlphaPose](https://github.com/WildflowerSchools/AlphaPose) to extract 2
 
 - ### Directory Structure
 
-- [ ] ```c
-  -------------------------------------------------joint---------------------------------------------------
-  - ./data/
-      - train_data_joint.npy
-      - train_label.pkl
-      - val_data_joint.npy
-      - val_label.pkl
-      - test_data_joint.npy
-      - test_label.pkl
-  -------------------------------------------------bone----------------------------------------------------
-  - ./data/
-      - train_data_bone.npy
-      - train_label.pkl
-      - val_data_bone.npy
-      - val_label.pkl
-      - test_data_bone.npy
-      - test_label.pkl
-  ---------------------------------------------joint moiton------------------------------------------------
-  - ./data/
-      - train_data_joint_motion.npy
-      - train_label.pkl
-      - val_data_joint_motion.npy
-      - val_label.pkl
-      - test_data_joint_motion.npy
-      - test_label.pkl
-  ----------------------------------------------bone moiton------------------------------------------------
-  - ./data/
-      - train_data_bone_motion.npy
-      - train_label.pkl
-      - val_data_bone_motion.npy
-      - val_label.pkl
-      - test_data_bone_motion.npy
-      - test_label.pkl
-  ```
+```c
+-------------------------------------------------joint---------------------------------------------------
+- ./data/
+    - train_data_joint.npy
+    - train_label.pkl
+    - val_data_joint.npy
+    - val_label.pkl
+    - test_data_joint.npy
+    - test_label.pkl
+    
+-------------------------------------------------bone----------------------------------------------------
+- ./data/
+    - train_data_bone.npy
+    - train_label.pkl
+    - val_data_bone.npy
+    - val_label.pkl
+    - test_data_bone.npy
+    - test_label.pkl
+    
+---------------------------------------------joint moiton------------------------------------------------
+- ./data/
+    - train_data_joint_motion.npy
+    - train_label.pkl
+    - val_data_joint_motion.npy
+    - val_label.pkl
+    - test_data_joint_motion.npy
+    - test_label.pkl
+    
+----------------------------------------------bone moiton------------------------------------------------
+- ./data/
+    - train_data_bone_motion.npy
+    - train_label.pkl
+    - val_data_bone_motion.npy
+    - val_label.pkl
+    - test_data_bone_motion.npy
+    - test_label.pkl
+```
 
