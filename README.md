@@ -34,10 +34,10 @@ We used [AlphaPose](https://github.com/WildflowerSchools/AlphaPose) to extract 2
 
 - ### Directory Structure
 
-```c++
+```c
 -------------------------------------------------joint-----------------------------------------------------
 - ./data/
-	- train_data_joint.npy
+- train_data_joint.npy
     - train_label.pkl
     - val_data_joint.npy
     - val_label.pkl
@@ -45,7 +45,7 @@ We used [AlphaPose](https://github.com/WildflowerSchools/AlphaPose) to extract 2
     - test_label.pkl
 -------------------------------------------------bone-----------------------------------------------------
 - ./data/
-	- train_data_bone.npy
+- train_data_bone.npy
     - train_label.pkl
     - val_data_bone.npy
     - val_label.pkl
@@ -53,7 +53,7 @@ We used [AlphaPose](https://github.com/WildflowerSchools/AlphaPose) to extract 2
     - test_label.pkl
 ---------------------------------------------joint moiton-------------------------------------------------
 - ./data/
-	- train_data_joint_motion.npy
+- train_data_joint_motion.npy
     - train_label.pkl
     - val_data_joint_motion.npy
     - val_label.pkl
@@ -61,7 +61,7 @@ We used [AlphaPose](https://github.com/WildflowerSchools/AlphaPose) to extract 2
     - test_label.pkl
 ----------------------------------------------bone moiton-------------------------------------------------
 - ./data/
-	- train_data_bone_motion.npy
+- train_data_bone_motion.npy
     - train_label.pkl
     - val_data_bone_motion.npy
     - val_label.pkl
