@@ -34,7 +34,7 @@ We used [AlphaPose](https://github.com/WildflowerSchools/AlphaPose) to extract 2
 
 - ### Directory Structure
 
-```python
+```c++
 -------------------------------------------------joint-----------------------------------------------------
 - ./data/
 	- train_data_joint.npy
